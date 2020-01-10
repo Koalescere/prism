@@ -1,0 +1,12 @@
+.styleslider {
+  z-index: 70;
+  width: 15px;
+  height: 500px;
+  margin-left: 20px;
+  margin-top: 50px;
+  opacity: 0.4;
+  background-color: rgba(1, 1, 34, 0.322);
+  padding-left: 10px;
+  position: absolute;
+  top: 100px;
+}

@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://dbUserenough:OnceUponATimeInAmerica1@ds261567.mlab.com:61567/heroku_5p1sk5rw",
+    "jwtSecret": "cu_bootcamp_mysecret"
+}

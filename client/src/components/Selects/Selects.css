@@ -1,0 +1,21 @@
+#exampleSelect {
+  background-color: rgb(92, 92, 92);
+  height: 20px;
+  width: 150px;
+  color: rgba(228, 225, 225, 0.76);
+  align-items: center;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 12px;
+  border: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  /* padding-bottom: 20px; */
+  align-self: center;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.selectlabel {
+  color: rgba(212, 211, 211, 0.89);
+  font-family: "Rajdhani", sans-serif;
+  font-size: 15px;
+}

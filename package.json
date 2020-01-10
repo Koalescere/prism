@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "hey am i a part of this thing or what",
   "main": "index.js",
+  "engines": {
+    "node": "10.16.3"
+  },
   "scripts": {
     "client-install": "cd client && npm install",
     "start": "node server.js",
